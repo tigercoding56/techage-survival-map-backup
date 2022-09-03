@@ -1,0 +1,1 @@
+r1="minecart";r2="signs_bot";return {players_stored_data={singleplayer={revealed={[r1]={},[r2]={}},revealed_count={[r1]=7,[r2]=34},viewed_count={[r1]=0,[r2]=0},viewed={[r1]={},[r2]={}}}}}
